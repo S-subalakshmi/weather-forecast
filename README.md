@@ -1,2 +1,2 @@
 # weather-forecast
-predict the next day maximum temperature using the python regression model
+Predict the next day maximum temperature using the python Ridge regression model
